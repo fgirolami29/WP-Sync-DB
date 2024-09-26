@@ -9,7 +9,7 @@
 
 # Log files
 *.log
-
+_dev_*
 # htaccess
 /.htaccess
 
